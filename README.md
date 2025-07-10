@@ -32,9 +32,9 @@ KrishnaHere's your **remade GitHub profile bio** using your provided details, st
 
 An example ERC-20 token built using Solidity and Hardhat. 
 
-### 🔷 [NFT Minting DApp](#)
+### 🔷 [NFT Minting DApp](https://github.com/antor0193/zenchain_nft_platform)
 
-A simple Web3 DApp that allows users to mint NFTs directly to their wallets. *(Link to be added manually)*
+A simple Web3 DApp that allows users to mint NFTs directly to their wallets.
 
 ---
 
