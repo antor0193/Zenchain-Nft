@@ -1,4 +1,4 @@
-Here's your **remade GitHub profile bio** using your provided details, structured like the sample but personalized for you (**Antar Munshi**):
+KrishnaHere's your **remade GitHub profile bio** using your provided details, structured like the sample but personalized for you (**Antar Munshi**):
 
 ---
 
@@ -28,9 +28,9 @@ Here's your **remade GitHub profile bio** using your provided details, structure
 
 ## 🔗 Featured Projects
 
-### 🔷 [ERC-20 Token Contract](#)
+### 🔷 [ERC-20 Token Contract](https://github.com/antor0193/ZenToken/tree/main)
 
-An example ERC-20 token built using Solidity and Hardhat. *(Link to be added manually)*
+An example ERC-20 token built using Solidity and Hardhat. 
 
 ### 🔷 [NFT Minting DApp](#)
 
